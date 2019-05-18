@@ -8,8 +8,8 @@ For this reason, there is a system that can be used in model training.
 
 English guide : [English Guide](https://drive.google.com/open?id=1OhPlVQtcZjEnz0Il6MiTTDv90qsOztqA "English Guide")
 
-Have fun coding without no bugs 
-May the Java be with you
+#Have fun coding without no bugs.
+#May the Java be with you...
 ------------------------------------------------------------------------------------------------------------------------------
 
 # Görüntü İşleme ile Duygu Analizi
@@ -22,8 +22,8 @@ Bu yüzden model eğitimlerinde kullanabileceğiniz bir sistem var kullanımı v
 
 Türkçe Kılavuz : [Turkish Guide](https://drive.google.com/open?id=1mXNHkclMUGE1EpAc1RBG2D7WScGUmn4o "Turkish Guide")
 
-Hiçbir hata olmadan kodlamanızı dilerim...
-May the Java be with you
+#Hiçbir hata olmadan kodlamanızı dilerim.
+#May the Java be with you.
 ------------------------------------------------------------------------------------------------------------------------------
 
 Dataset and example of .h5 file : [https://drive.google.com/open?id=1z1mqdXQQamNTQAeqP7auZJ7kGT6XqR5R](https://drive.google.com/open?id=1z1mqdXQQamNTQAeqP7auZJ7kGT6XqR5R)
