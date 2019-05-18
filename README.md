@@ -1,7 +1,7 @@
 # Emotion Analysis with Image Processing 
 The GPU and CPU's of the computer we use while training the model is very important.
 Because if our computer's hardware is insufficient, the training period can be very long.
-( My training time was 11 hours. :( ) .
+[My training time was 11 hours. :( ] .
 For this reason, there is a system that can be used in model training.
 
 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb "Google Colab")
@@ -13,7 +13,7 @@ English guide : [English Guide](https://drive.google.com/open?id=1OhPlVQtcZjEnz0
 # Görüntü İşleme ile Duygu Analizi
 Model eğitimlerinde kullandığımız bilgisayarın GPU ve CPU 'su çok önemlidir.
 Çünkü bilgisayarımızın bu donanımları yetersiz ise eğitim süresi çok uzun sürebilir.
-(Benim eğitim sürem 11 saati geçmişti. :( ) .
+[Benim eğitim sürem 11 saati geçmişti. :( ] .
 Bu yüzden model eğitimlerinde kullanabileceğiniz bir sistem var kullanımı ve ne olduğuna dair makaleyi link olarak altta veriyorum.
 
 [Google Colab](https://medium.com/deep-learning-turkiye/google-colab-ile-%C3%BCcretsiz-gpu-kullan%C4%B1m%C4%B1-30fdb7dd822e "Google Colab")
