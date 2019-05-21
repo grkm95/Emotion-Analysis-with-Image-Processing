@@ -1,5 +1,5 @@
 # Emotion Analysis with Image Processing 
-The GPU and CPU's of the computer we use while training the model is very important.
+The GPU and CPU's of the computer are very important while we use training the model .
 Because if our computer's hardware is insufficient, the training period can be very long.
 [My training time was 11 hours. :( ] .
 For this reason, there is a system that can be used in model training.
